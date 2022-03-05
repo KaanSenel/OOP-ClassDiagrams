@@ -6,4 +6,4 @@
 ## Üniversite Yönetim Sistemi Sınıf Diyagramı
 <img src="https://github.com/KaanSenel/OOP-ClassDiagrams/blob/main/UnivercityClassDiagram.png" width="auto">
 
-- Uml diyagramlarını hazırladığım siteye [buradan] (https://online.visual-paradigm.com) ulaşabilirsiniz.
+- Uml diyagramlarını hazırladığım siteye [buradan](https://online.visual-paradigm.com) ulaşabilirsiniz.
