@@ -14,4 +14,7 @@
 ## 4- Online Film Sistemi Sınıf Diyagramı
 <img src="https://github.com/KaanSenel/OOP-ClassDiagrams/blob/main/OnlineFilmSystem.jpg" width="auto">
 
+## 5- Asansör Simülasyonu
+<img src="https://github.com/KaanSenel/OOP-ClassDiagrams/blob/main/ElevatorSimulation%20(1).jpg" width="auto">
+
 - Uml diyagramlarını hazırladığım siteye [buradan](https://online.visual-paradigm.com) ulaşabilirsiniz.
